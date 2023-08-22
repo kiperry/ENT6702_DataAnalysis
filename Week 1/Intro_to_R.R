@@ -13,7 +13,7 @@
 
 ############################################################################
 
-# Benefits of R: base functions & additional packages
+# Benefits of R: base functions/packages & additional add-on packages
 # RStudio: an interface that makes it easier to interact with R
 
 # create a script
