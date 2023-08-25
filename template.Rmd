@@ -1,0 +1,35 @@
+---
+title: "EPP 8273 Empirical Research in Theory and Practice"
+subtitle: "R Activity X"
+author: "Your name here"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.pos = "!H",  fig.width=5, fig.height=3,
+                      echo=TRUE, eval=TRUE)
+# r setup = r setup # (see at top of chunk) this is just the name of this chunk. Each chunk within a script needs a unique name
+# include = FALSE # prevents code and the associated results from appearing in the finished output file (e.g., PDF). R Markdown still runs the code in the chunk, and the results can be used by other chunks.
+# NOTE: all of these options could be changed chunk by chunk...but I am specifying global options here (i.e., applied to all chunks) using "opts_chunk$set"
+# fig.pos = "!H" # prevents the figures from "floating" (moving into weird locations as R tries to organize the output file)
+# fig.width, fig.height # size of figures in inches
+# echo = FALSE prevents code, but not the output, from appearing in the finished file. This is a useful way to embed figures.
+# eval = TRUE # run the code in the chunks
+```
+
+\vspace{12pt}
+@. Question 1
+    ```{r Question 1}
+useful_code1 <- c(1,10,12,2,4)
+    ```
+
+@. Question 2 (Note: Make sure to rename the chunk!)
+    ```{r Question 2}
+useful_code2 <- 20:24
+    ```
+
+
+@. Question 3 (for plotting)
+    ```{r Question 3, fig.pos = 'h',fig.align="center", eval=T, echo=T, include=T}
+plot(useful_code2~useful_code1)
+    ```
