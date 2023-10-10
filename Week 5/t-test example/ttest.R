@@ -62,6 +62,7 @@ t20 <- leps[which(leps$Temperature == "20"),]
 t30 <- leps[which(leps$Temperature == "30"),]
 
 leps.rgr <- rbind(t20, t30)
+boxplot(Herb_RGR ~ Temperature, data = leps.rgr)
 leps.rgr <- droplevels(leps.rgr)
 
 str(leps.rgr)
