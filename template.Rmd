@@ -1,5 +1,5 @@
 ---
-title: "EPP 8273 Empirical Research in Theory and Practice"
+title: "ENTMLGY 6702 Entomological Techniques and Data Analysis"
 subtitle: "R Activity X"
 author: "Your name here"
 output: html_document
