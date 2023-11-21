@@ -1,0 +1,107 @@
+type,code,name_Haines_2011,old_name,note,invasive
+Tree,ACPE,Acer pensylvanicum,NA,NA,N
+Tree,ACRU,Acer rubrum,NA,NA,N
+Tree,ACSA,Acer saccharum,NA,NA,N
+Tree,BEAL,Betula alleghaniensis,NA,NA,N
+Tree,BELE,Betula lenta,NA,NA,N
+Tree,BEPA,Betula papyrifera,NA,NA,N
+Tree,BEPO,Betula populifolia,NA,NA,N
+Tree,BELE.BEAL,Betula sp.,NA,used if unsure but not an additional type of Betula ,N
+Tree,CACA,Carpinus caroliniana,NA,NA,N
+Tree,CASP,Carya sp.,NA,to genus only,N
+Tree,FAGR,Fagus grandifolia,NA,NA,N
+Tree,FRAM,Fraxinus americana,NA,NA,N
+Tree,NYSY,Nyssa sylvatica,NA,NA,N
+Tree,OSVI,Ostrya virginiana,NA,maybe not really there,N
+Tree,PISP,Picea spp,NA,to genus only,N
+Tree,PIST,Pinus strobus,NA,NA,N
+Tree,POTR,Populus tremuloides,NA,NA,N
+Tree,PRPE,Prunus pensylvanica,NA,NA,N
+Tree,PRSE,Prunus serotina,NA,NA,N
+Tree,QUAL,Quercus alba,NA,NA,N
+Tree,QURU,Quercus rubra,NA,NA,N
+Tree,QUVE,Quercus velutina,NA,NA,N
+Tree,TSCA,Tsuga canadensis,NA,NA,N
+Shrub,AMESP,Amelanchier sp.,NA,to genus only,N
+Shrub,BERTHU,Berberis thunbergii,NA,one-pronged spine (B. vulgaris has 3-pronged spines),Y
+Shrub,CELORB,Celastrus orbiculatus,NA,NA,Y
+Shrub,SWIALT,Swida alternifolia,Cornus alternafolia,NA,N
+Shrub,CORCOR,Corylus cornuta,NA,NA,N
+Shrub,CRASP,Crataegus sp.,NA,to genus only,N
+Shrub,DIELON,Diervilla lonicera,NA,NA,N
+Shrub,GAUPRO,Gaultheria procumbens,NA,NA,N
+Shrub,HAMVIR,Hamamelis virginiana,NA,NA,N
+Shrub,ILEMUC,Ilex mucronata,NA,NA,N
+Shrub,ILEVER,Ilex verticillata,NA,NA,N
+Shrub,LONCAN,Lonicera canadensis,NA,NA,N
+Shrub,LONSP2,Lonicera spp,NA,not L. canadensis so okay to keep separate,N
+Shrub,MITREP,Mitchella repens,NA,NA,N
+Shrub,COMPER,Comptonia peregrina,NA,NA,N
+Shrub,PARQUI,Parthenocissus quinquefolia,NA,NA,N
+Shrub,RHOPRI,Rhododendron prinophyllum,Rhododendron nudiflorum,could be R. periclymenoides (rare in MA),N
+Shrub,FRAANG,Frangula alnus,Rhamnus frangula,NA,Y
+Shrub,RHUCOP,Rhus copallinum ,Rhus copallina,NA,N
+Shrub,TOXRAD,Toxicodendron radicans,Rhus radicans,NA,N
+Shrub,RUBALL,Rubus allegheniensis,NA,NA,N
+Shrub,RUBDAL,Rubus dalibarda,Dalibarda repens,new on list 2023; maybe identified as Pyrola in past?,N
+Shrub,RUBHIS,Rubus hispidis,NA,could be Rubus flagellaris (R. hispidus more common in HF Flora),N
+Shrub,RUBIDA,Rubus ideaus,NA,NA,N
+Shrub,RUBSP,Rubus sp.,NA,used if unsure but not an additional type of Rubus; only in quadrats,N
+Shrub,SAMRAC,Sambucus racemosa,Sambucus pubens,NA,N
+Shrub,SASALB,Sassafras albidum,NA,NA,N
+Shrub,SORAME,Sorbus americana,NA,NA,N
+Shrub,SPISPE,Spiraea sp.,NA,probably S. tomentosa based on HF Flora,N
+Shrub,VACANG,Vaccinium angustifolium,NA,hard to distinguish from V. pallidum (aka V. vacillans),N
+Shrub,VACCOR,Vaccinium corymbosum,NA,don't forget about Lyonia (has persistent capsules instead of berries),N
+Shrub,VACSP,Vaccinium sp.,NA,used when small and can't tell if highbush or lowbush,N
+Shrub,VIBACE,Viburnum acerifolium,NA,NA,N
+Shrub,VIBDEN,Viburnum dentatum,NA,new on list 2023,N
+Shrub,VIBNUD,Viburnum nudum,Viburnum cassinoides,NA,N
+Shrub,VITSP,Vitis sp.,NA,to genus only,N
+Herb,ANEQUI,Anemone quinquefolia,NA,when small looks like Aquilegia canadensis,N
+Herb,ARAHIS,Aralia hispida,NA,NA,N
+Herb,ARANUD,Aralia nudicaulis,NA,NA,N
+Herb,ARASPI,Aralia spinosa,NA,NA,N
+Herb,ARITRI,Arisaema triphyllum,Arisaema atrorubens,NA,N
+Herb,OCLACU,Oclemena acuminata,Aster acuminatus,NA,N
+Herb,EURDIV,Eurybia divaricata,Aster divaricatus,NA,N
+Herb,CHIMAC,Chimaphila maculata,NA,NA,N
+Herb,CLIBOR,Clintonia borealis,NA,NA,N
+Herb,COPTRI,Coptis trifolia,Coptis groenlandica,NA,N
+Herb,CYPACU,Cypripedium acaule,NA,NA,N
+Herb,EPIHEL,Epipactus hellborine,NA,new on list 2023,Y
+Herb,EPIREP,Epigaea repens,NA,NA,N
+Herb,EREHIE,Erechtites hieraciifolius,NA,NA,N
+Herb,GOOTES,Goodyera tesselata,NA,NA,N
+Herb,LACSPE,Lactuca sp.,NA,to genus only,N
+Herb,LYSQUA,Lysimachia quadrifolia,NA,NA,N
+Herb,MAICAN,Maianthemum canadense,NA,NA,N
+Herb,MEDVIR,Medeola virginiana,NA,NA,N
+Herb,MONUNI,Monotropa uniflora,NA,NA,N
+Herb,PHYAME,Phytolacca americana,NA,NA,N
+Herb,PRESPE,Prenanthes sp.,NA,to genus only,N
+Herb,PYRMIN,Pyrola minor,NA,NOT IN HF FLORA,N
+Herb,PYRAME,Pyrola americana,Pyrola rotundifolia,really?,N
+Herb,MAIRAC,Maianthemum racemosum,Smilacena racemosa,NA,N
+Herb,SOLSP,Solidago sp.,NA,to genus only,N
+Herb,LYSBOR,Lysimachia borealis,Trientalis borealis,NA,N
+Herb,TRILSP,Trillium sp.,NA,to genus only,N
+Herb,UVUSES,Uvularia sessifolia,NA,NA,N
+Herb,VIOSP,Viola sp.,NA,to genus only,N
+Fern/Lycopod,DENPUN,Dennstaedtia punctilobula,NA,NA,N
+Fern/Lycopod,DRYSPE,D. carthusiana; D. intermedia,Dryopteris spinulosa,let's call it to genus only,N
+Fern/Lycopod,DIPDIG,Diphasiastrum digitatum,Lycopodium complanatum,NA,N
+Fern/Lycopod,HUPLUC,Huperzia lucidula,Lycopodium lucidulum,could be Lycopodium clavatum (likely); Spinulum annotinum,N
+Fern/Lycopod,DENOBS,Dendrolycopodium obscurum,Lycopodium obscurum,NA,N
+Fern/Lycopod,LYCCLA,Lycopodium clavatum,,NA,N
+Fern/Lycopod,OSMCIN,Osmundastrum cinnamomeum,Osmunda cinnamomea,NA,N
+Fern/Lycopod,OSMCLA,Osmunda claytoniana,NA,NA,N
+Fern/Lycopod,POLVIR,Polypodium virginianum,Polypodium vulgare,NA,N
+Fern/Lycopod,POLACR,Polystichum acrostichoides,NA,NA,N
+Fern/Lycopod,PTEAQU,Pteridium aquilinum,NA,NA,N
+Fern/Lycopod,PARNOV,Parathelypoteris noveboracensis,Thelypteris novaboracensis,NA,N
+Graminoid,BRAARI,Brachyelytrum aristosum,Brachyeletrum erectum,NA,N
+Graminoid,CARPEN,Carex cf. pensylvanica,NA,NA,N
+Graminoid,CARSP,Carex other species,NA,to genus only but not C. pennsylvanicum,N
+Graminoid,PANSP,Panicum sp.,NA,to genus only,N
+Graminoid,GRAM,Graminoid sp.,NA,not even to genus,N
